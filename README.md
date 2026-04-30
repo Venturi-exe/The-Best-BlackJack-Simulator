@@ -1,5 +1,5 @@
 # The-Best-BlackJack-Simulator
-```markdown
+markdown
 # ♠ Blackjack Trainer Pro
 
 > **The best blackjack simulator that has ever existed.**
@@ -63,4 +63,3 @@ Correct answers in training modes award chips scaled by your active streak multi
 | 5 - 9  | x1.5       |
 | 10 - 19| x2         |
 | 20+    | x3         |
-```
