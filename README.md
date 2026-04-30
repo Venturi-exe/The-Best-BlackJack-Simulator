@@ -1,5 +1,5 @@
 # The-Best-BlackJack-Simulator
-markdown
+
 # ♠ Blackjack Trainer Pro
 
 > **The best blackjack simulator that has ever existed.**
