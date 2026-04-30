@@ -12,14 +12,14 @@ No account required.
 
 ## Modes
 
-### 🃏 Card Counting
+### Card Counting
 Train Hi-Lo running count recognition in real time.  
 A card is dealt, a 1.5-second timer starts, you click **-1**, **0**, or **+1** before time runs out.  
 Tracks accuracy percentage, average response time, and total cards dealt.
 
 ---
 
-### 🎴 Dealer Sim
+### Dealer Sim
 Play as the dealer against an AI player following basic strategy.  
 You control every dealer decision manually.  
 The app flags any deviation from standard house rules: hit on soft 16, stand on hard 17 and above.  
@@ -27,7 +27,7 @@ No betting — pure procedural accuracy training.
 
 ---
 
-### 👁️ Hand Reading
+### Hand Reading
 Two player cards and one dealer upcard are dealt.  
 You have 3 seconds to select the correct hand total from 6 buttons.  
 Distractors include adjacent values, ace miscounts, and plausible wrong totals.  
@@ -35,7 +35,7 @@ Trains you as a dealer for instant blackjack arithmetic without mental hesitatio
 
 ---
 
-### 💰 Blackjack Sim
+### Blackjack Sim
 Full Vegas single-deck blackjack.  
 Ten chip denominations from **$10** to **$500,000**.  
 Dealer hits soft 17, blackjack pays 3:2, double on any two cards, split up to three hands.  
@@ -43,7 +43,7 @@ Standard game — training mode available.
 
 ---
 
-### 📊 Strategy Trainer
+### Strategy Trainer
 A two-card player hand and a dealer upcard are shown.  
 You select **Hit**, **Stand**, **Double**, or **Split**.  
 After each answer, a one-line recap gives the correct action and the rule behind it,  
